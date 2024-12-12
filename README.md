@@ -153,5 +153,4 @@ E_m is the Energy per memory access.
 	plot_analysis(workload,  ["PIM"])
 	plot_analysis(workload,  ["PNM"])
 
-### Step 3. Analyse Plots
 
